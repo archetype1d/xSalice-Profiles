@@ -1,0 +1,6 @@
+{
+  "events/Paladin/archetype-pld.json": "1.0.0",
+  "events/Gunbreaker/archetype-gnb.json": "1.0.0",
+  "events/Machinist/archetype-mch.json": "1.0.0",
+  "events/Dancer/archetype-dnc.json": "1.0.0"
+}
