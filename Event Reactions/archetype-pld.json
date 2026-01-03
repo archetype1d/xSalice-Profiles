@@ -3,7 +3,7 @@
   "Name": "archetype-pld",
   "Description": "",
   "CreatedAt": "2025-08-14T04:53:49.8169798Z",
-  "ModifiedAt": "2026-01-03T19:33:08.5487817Z",
+  "ModifiedAt": "2026-01-03T19:36:41.1225289Z",
   "Events": [
     {
       "Id": "f2daaf1d-c477-42b2-9db1-baa49330bfe3",
@@ -17,7 +17,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:34.9132756Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077251Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591234Z"
     },
     {
       "Id": "d13864d8-c2b5-4368-8159-019c3ea3b188",
@@ -31,7 +31,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T19:31:31.1998048Z",
-      "ModifiedAt": "2026-01-03T19:32:28.2336833Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591243Z"
     },
     {
       "Id": "3b4c3657-448e-452f-952d-ea562cf330fb",
@@ -45,7 +45,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:29:16.5924414Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077264Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591245Z"
     },
     {
       "Id": "732a7c9a-5487-474b-bb80-91bf92cd7e74",
@@ -59,7 +59,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:23:27.0455383Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077266Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591246Z"
     },
     {
       "Id": "09325808-4e89-4c09-a62e-5ea2aec65eac",
@@ -73,7 +73,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-14T02:35:46.8628569Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077267Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591247Z"
     },
     {
       "Id": "565fe51c-9d06-4338-bb4e-ad1d0cba3e32",
@@ -87,7 +87,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:28:17.4766558Z",
-      "ModifiedAt": "2026-01-03T19:27:30.1946216Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591248Z"
     },
     {
       "Id": "1b066cf9-12d8-450d-866e-677d61da153d",
@@ -101,7 +101,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-12T20:27:33.1643991Z",
-      "ModifiedAt": "2026-01-03T19:27:31.8051825Z"
+      "ModifiedAt": "2026-01-03T19:43:10.959125Z"
     },
     {
       "Id": "a6cdc6d2-6171-4f55-8f53-dbde09c85e86",
@@ -115,7 +115,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-08-13T05:47:18.104461Z",
-      "ModifiedAt": "2026-01-03T19:27:34.7468092Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591251Z"
     },
     {
       "Id": "08c75b56-6f6e-4b0c-88f7-7f58282253c4",
@@ -129,7 +129,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-10-06T20:54:10.239536Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077272Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591252Z"
     },
     {
       "Id": "5a47325b-00d5-4e36-8843-040393757b89",
@@ -143,7 +143,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:46:01.621465Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077274Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591253Z"
     },
     {
       "Id": "f97dfcaf-0ec7-4a05-aa20-89d26a48e419",
@@ -157,7 +157,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2025-11-29T20:48:00.0845001Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077276Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591255Z"
     },
     {
       "Id": "78f2c611-1379-41d2-a2bd-26f59e78abb9",
@@ -171,7 +171,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:06:54.3440002Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077278Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591256Z"
     },
     {
       "Id": "0f848527-2363-4851-9ca7-73666e9414b1",
@@ -185,7 +185,7 @@
       "RecheckDuration": 0.0,
       "Filters": {},
       "CreatedAt": "2026-01-03T00:14:50.1039412Z",
-      "ModifiedAt": "2026-01-03T19:26:40.6077279Z"
+      "ModifiedAt": "2026-01-03T19:43:10.9591258Z"
     }
   ],
   "Conditions": [
@@ -2508,8 +2508,8 @@
             "BuffParams": {
               "StatusId": 0,
               "StatusIds": [
-                1839,
-                2000
+                727,
+                1362
               ],
               "UseMultipleStatuses": true,
               "StatusLogic": 2,
@@ -2699,7 +2699,7 @@
         }
       ],
       "CreatedAt": "2025-08-14T02:34:44.5135545Z",
-      "ModifiedAt": "2026-01-03T07:55:16.5248462Z",
+      "ModifiedAt": "2026-01-03T19:44:27.3864095Z",
       "ExcludeFromTargetAccumulation": false
     },
     {
@@ -5898,5 +5898,5 @@
       "2c507a66-97e3-4cd4-9241-4e6e1dd931f8": true
     }
   },
-  "Version": "1.0.0"
+  "Version": "1.0.1"
 }
